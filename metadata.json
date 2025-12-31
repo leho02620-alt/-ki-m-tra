@@ -1,0 +1,5 @@
+{
+  "name": "MathGenius - Hệ thống tạo đề Toán THCS",
+  "description": "Ứng dụng web chuyên nghiệp hỗ trợ giáo viên THCS tạo đề kiểm tra toán tự động từ ngân hàng câu hỏi, hỗ trợ lớp 6-9, trắc nghiệm và tự luận, tích hợp AI để sinh câu hỏi mới.",
+  "requestFramePermissions": []
+}
